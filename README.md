@@ -1,4 +1,4 @@
-# Rookie_Chef_Helper
+# Rookie Chef Helper
 <img width="324" alt="截圖 2021-10-10 下午9 58 07" src="https://user-images.githubusercontent.com/54812971/136735431-cb265291-340b-4bf5-9f3e-b3d8737595bb.png">
 
 
